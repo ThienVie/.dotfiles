@@ -1,0 +1,8 @@
+ReadTags = yes
+MusicDir = ~/Music
+StartInMusicDir = yes
+SoundDriver = JACK
+XTerms = xterm-256color
+Theme = test
+MOCDir = ~/.moc
+UseRCC = no
